@@ -28,6 +28,8 @@ Todos os documentos, códigos, notebooks, bases de dados e materiais desenvolvid
 
 **[Acessar pasta do projeto no Google Drive]([INSIRA_AQUI_O_LINK_DA_PASTA](https://drive.google.com/drive/folders/1LnnKTOFpHUC91oZOwjQMPKAYQz6-gd4g?usp=sharing))**
 
+https://drive.google.com/drive/folders/1LnnKTOFpHUC91oZOwjQMPKAYQz6-gd4g?usp=sharing
+
 ## Autoria
 
 **Projeto:** Tech Challenge – Fase 3
